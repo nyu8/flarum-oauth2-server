@@ -17,5 +17,15 @@
     ],
     "require": {
         "flarum/core": "^1.0"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "OAuth2 Server",
+            "icon": {
+                "name": "fas fa-server",
+                "backgroundColor": "#eb5424",
+                "color": "#ffffff"
+            }
+        }
     }
 }
