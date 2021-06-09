@@ -6,7 +6,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Nyu8\\FlarumOauth2Server\\": "src/"
+            "NYU8\\FlarumOAuth2Server\\": "src/"
         }
     },
     "authors": [
