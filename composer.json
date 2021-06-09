@@ -1,0 +1,20 @@
+{
+    "name": "nyu8/flarum-oauth2-server",
+    "description": "Turn your Flarum user system into an OAuth2 server.",
+    "type": "flarum-extension",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nyu8\\FlarumOauth2Server\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NYU8",
+            "email": "dev@nyu8.com"
+        }
+    ],
+    "require": {
+        "flarum/core": "^1.0"
+    }
+}
