@@ -1,5 +1,6 @@
 {
     "name": "nyu8/flarum-oauth2-server",
+    "version": "1.0.0",
     "description": "Turn your Flarum user system into an OAuth2 server.",
     "type": "flarum-extension",
     "license": "MIT",
