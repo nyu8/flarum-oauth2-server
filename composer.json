@@ -16,7 +16,10 @@
         }
     ],
     "require": {
-        "flarum/core": "^1.0"
+        "flarum/core": "^1.0",
+        "league/oauth2-server": "^8.3",
+        "fof/extend": "^1.0",
+        "fof/components": "^1.0"
     },
     "extra": {
         "flarum-extension": {
