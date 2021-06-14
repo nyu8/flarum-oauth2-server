@@ -10,4 +10,6 @@ return [
     ->js(__DIR__ . '/js/dist/forum.js'),
   (new Extend\Frontend('admin'))
     ->js(__DIR__ . '/js/dist/admin.js'),
+  (new Extend\Frontend('forum'))
+    ->route('/sign-in', 'nyu8.sign-in'),
 ];
